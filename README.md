@@ -22,7 +22,7 @@ Also feel free to communicate or contribute. I hope you find this useful.
 1. If you have not yet installed an **Android Build Template** into your project, you should.
 1. Then close Godot, and navigate to your project, open *"android"*, which is your Android Build Template folder.
 1. Copy **GodotChartboost.release.aar** and **GodotChartboost.release.gdap** and paste them inside *"plugins"*.
-1. Copy **chartboost-godot-class** folder and paste it into your Godot project *"res://"* folder.
+1. Copy **chartboost-godot-class** folder and paste it into your **Godot project** folder.
 1. Open Godot again and load your project.
 1. You can now add the **Chartboost** node if *chartboost-godot-class* was added correctly.
 1. You can also select the *Chartboost* plugin in the Android Export Menu if both .aar and .gdap were added.

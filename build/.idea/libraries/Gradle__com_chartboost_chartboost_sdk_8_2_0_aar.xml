@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.chartboost:chartboost-sdk:8.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21aec8fe943d291a797a94d4c10d6012/jetified-chartboost-sdk-8.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21aec8fe943d291a797a94d4c10d6012/jetified-chartboost-sdk-8.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21aec8fe943d291a797a94d4c10d6012/jetified-chartboost-sdk-8.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21aec8fe943d291a797a94d4c10d6012/jetified-chartboost-sdk-8.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.chartboost/chartboost-sdk/8.2.0/e9f677841519601165538bf56a5ee3436b070a3a/chartboost-sdk-8.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

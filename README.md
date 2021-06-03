@@ -1,6 +1,6 @@
 # CHARTBOOST ADS-SDK ANDROID PLUGIN FOR GODOT ENGINE 3.3.2
 
-This is a plugin for Android projects in Godot 3.3.2. For other versions of Godot, please check other similar repositories.
+This is a plugin for Android projects powered by Godot 3.3.2. For other versions of Godot, please check other similar repositories.
 
 ## About the plugin
 This plugin uses Chartboost sdk to allow your Godot project support:

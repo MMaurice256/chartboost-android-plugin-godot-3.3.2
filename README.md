@@ -17,6 +17,7 @@ Also feel free to communicate or contribute. I hope you find this useful.
 * For more, visit there website at  https://www.chartboost.com
 
 ## How to use
+1. Download the plugin files from the releases section  https://github.com/MMaurice256/chartboost-android-plugin-godot-3.3.2/releases/tag/v1.0
 1. Open your project in Godot.
 1. Enable custom build in your Android export settings.
 1. If you have not yet installed an **Android Build Template** into your project, you should.

@@ -38,8 +38,8 @@ Also feel free to communicate or contribute. I hope you find this useful.
 
 ## Helpful Tips
 * Targetted ads tend to make more revenue, so consider turning them on by default.
-* Turn on ad-targetting (targetted ads) using `setPIDataUseConsent(true)` as used in the Godot class provided.
-* Turn off ad-targetting (targetted ads) using `setPIDataUseConsent(false)` as used in the Godot class provided.
+* Enable ad-targetting (targetted ads) using `setPIDataUseConsent(true)` as used in the Godot class provided.
+* Disable ad-targetting (targetted ads) using `setPIDataUseConsent(false)` as used in the Godot class provided.
 * Offer an option to turn off targetted ads (opt-out) in your game settings and save that value for later usage.
 * Targetted ads **must** be disabled if your app is meant for/directed towards children. This is a GDPR rule.
 * Rewarded videos offer the best consumer experience. Avoid forcing ads on users.
